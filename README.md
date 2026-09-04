@@ -2,25 +2,29 @@
   <img src="app/icon.svg" width="72" alt="" />
 </p>
 
-<h1 align="center">M3E Canvas</h1>
+<h1 align="center">mobile-canvas</h1>
 
 <p align="center">
-  <strong>Sketch Material 3 Expressive screens in the browser, link them, tap through them, and copy a prompt for your AI coding tool.</strong>
+  <strong>Sketch mobile screens in the browser — Material 3 Expressive or iOS 26 Liquid Glass — link them, tap through them, and copy a prompt for your AI coding tool.</strong>
 </p>
 
 <p align="center">
-  <a href="https://lnkiai.github.io/m3e-canvas/"><img alt="Live demo" src="https://img.shields.io/badge/demo-lnkiai.github.io%2Fm3e--canvas-6750A4?logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/lnkiai/m3e-canvas/actions/workflows/deploy.yml"><img alt="Deploy" src="https://github.com/lnkiai/m3e-canvas/actions/workflows/deploy.yml/badge.svg" /></a>
-  <a href="https://github.com/lnkiai/m3e-canvas/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/lnkiai/m3e-canvas?style=flat&logo=github&color=6750A4" /></a>
+  <sub>Forked from <a href="https://github.com/lnkiai/m3e-canvas">lnkiai/m3e-canvas</a> (MIT). Adds an iOS 26 Liquid Glass design system (Apple HIG + ChunUI + Telegram iOS inspired parts) alongside the original Material 3 Expressive content, with a project-wide design-system switch.</sub>
+</p>
+
+<p align="center">
+  <a href="https://dimon94.github.io/mobile-canvas/"><img alt="Live demo" src="https://img.shields.io/badge/demo-dimon94.github.io%2Fmobile--canvas-6750A4?logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/Dimon94/mobile-canvas/actions/workflows/deploy.yml"><img alt="Deploy" src="https://github.com/Dimon94/mobile-canvas/actions/workflows/deploy.yml/badge.svg" /></a>
+  <a href="https://github.com/Dimon94/mobile-canvas/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Dimon94/mobile-canvas?style=flat&logo=github&color=6750A4" /></a>
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs" />
   <img alt="React" src="https://img.shields.io/badge/React-19-20232a?logo=react&logoColor=61DAFB" />
-  <img alt="Material 3 Expressive" src="https://img.shields.io/badge/Material%203-Expressive-EADDFF?logo=materialdesign&logoColor=6750A4" />
+  <img alt="Material 3 Expressive + iOS 26" src="https://img.shields.io/badge/design%20systems-M3E%20%2B%20iOS%2026-EADDFF?logo=materialdesign&logoColor=6750A4" />
   <img alt="No backend" src="https://img.shields.io/badge/backend-none%20(localStorage)-2E6A45" />
 </p>
 
 <p align="center">
-  <a href="#日本語">日本語</a> · <a href="#中文">中文</a> · <a href="https://lnkiai.github.io/m3e-canvas/">Open the app</a>
+  <a href="#日本語">日本語</a> · <a href="#中文">中文</a> · <a href="https://dimon94.github.io/mobile-canvas/">Open the app</a>
 </p>
 
 ![Sketching a recipes app in M3E Canvas, changing its theme, copying the prompt, an AI coding tool building it, and the app running on Android](docs/story.gif)
