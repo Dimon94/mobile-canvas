@@ -1,0 +1,23 @@
+{
+  ".bash": "bash",
+  ".cjs": "javascript",
+  ".css": "css",
+  ".cts": "typescript",
+  ".entitlements": "xml",
+  ".gitignore": "gitignore",
+  ".js": "javascript",
+  ".jsx": "javascript",
+  ".mjs": "javascript",
+  ".mts": "typescript",
+  ".py": "python",
+  ".sh": "bash",
+  ".svg": "xml",
+  ".ts": "typescript",
+  ".tsx": "tsx",
+  ".xcprivacy": "xml",
+  ".xcscheme": "xml",
+  ".xcworkspacedata": "xml",
+  ".xml": "xml",
+  ".yaml": "yaml",
+  ".yml": "yaml"
+}
